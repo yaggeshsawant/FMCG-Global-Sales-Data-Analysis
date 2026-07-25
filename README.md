@@ -74,7 +74,7 @@ The entire pipeline stack — Kafka, Zookeeper, HDFS, Hive, PySpark, and Airflow
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/<your-username>/fmcg-global-sales-pipeline.git
+git clone https://github.com/yaggeshsawant/FMCG-Global-Sales-Data-Pipeline.git
 cd fmcg-global-sales-pipeline
 ```
 
