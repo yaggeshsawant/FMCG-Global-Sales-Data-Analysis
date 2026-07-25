@@ -33,6 +33,7 @@ Designed and implemented a fully automated, end-to-end big data pipeline to proc
 | **Orchestration**| ![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white) | Pipeline workflow scheduling and DAG management |
 | **Cloud Storage** | ![S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white) | Final staging storage for analytics consumption |
 | **Containerization**| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | Local environment setup and service isolation |
+| **Cloud Deployment**| ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white) | Production-scale deployment and pipeline execution |
 | **Visualization**| ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) | Interactive executive dashboards |
 
 ---
