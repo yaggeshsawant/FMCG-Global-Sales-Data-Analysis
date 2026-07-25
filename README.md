@@ -6,8 +6,7 @@
 
 ## 📌 Project Overview
 
-The **FMCG Global Sales Data Pipeline** ingests, cleans, transforms, and stores high-volume sales transaction data from distributed global sources into cloud platforms ready for analytics.
-By unifying data streams across multiple cloud providers and on-premise infrastructure, this project provides automated real-time and batch-processing capabilities to generate actionable business intelligence for fast-moving consumer goods.
+Designed and implemented a fully automated, end-to-end big data pipeline to process 1.1 million FMCG sales transactions across 7 countries from multiple sources (AWS, Snowflake, Google Drive), enabling real-time streaming, large-scale cleaning, transformation, and structured storage with zero manual intervention. The pipeline was orchestrated using Apache Airflow to ensure seamless, scheduled execution across all stages, delivering clean, analysis-ready data for interactive Tableau dashboards used in sales insights and reporting. The complete solution was first built and tested on a local big data setup, then deployed and scaled on cloud infrastructure using Databricks for production-grade performance and reliability.
 
 ---
 
