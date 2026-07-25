@@ -16,6 +16,7 @@ Designed and implemented a fully automated, end-to-end big data pipeline to proc
 * **🌐 Multi-Source Integration:** Combines raw store, product, and sales data from **AWS**, **Snowflake**, and **Google Drive**.
 * **📊 Large-Scale Distributed Processing:** PySpark transformations running over HDFS Parquet storage for high performance.
 * **🤖 Fully Automated Orchestration:** End-to-end pipeline management and monitoring using **Apache Airflow**.
+* **☁️ Cloud-Scale Deployment:** Pipeline built and tested on a local big data setup, then deployed and scaled in production on **Databricks** for enterprise-grade performance.
 * **📈 Interactive Dashboards:** Final analytical datasets surfaced via **Tableau** for business consumption.
 
 ---
