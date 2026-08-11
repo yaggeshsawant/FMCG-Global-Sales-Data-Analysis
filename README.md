@@ -10,6 +10,25 @@ Designed and implemented a fully automated, end-to-end big data pipeline to proc
 
 ---
 
+## 🎥 Live Demo
+
+### 📹 Project Walkthrough Video
+[![Watch the Demo](https://dummy-link.com/video-thumbnail.png)](https://dummy-link.com/video.mp4)
+
+> Replace `video-thumbnail.png` with a screenshot of your video (with a play button overlay) and `video.mp4` with your actual hosted demo file or YouTube link.
+
+---
+
+### 🖼️ Tableau Dashboard Preview
+![Tableau Dashboard](https://dummy-link.com/tableau-dashboard.png)
+
+---
+
+### 🌐 Tableau Public Link
+View Interactive Dashboard: [https://dummy-link.com/tableau-public](https://dummy-link.com/tableau-public)
+
+---
+
 ## 🚀 Key Features
 
 * **⚡ Real-Time & Batch Streaming:** Seamless ingestion of 1.1M+ sales records across 7 international markets.
