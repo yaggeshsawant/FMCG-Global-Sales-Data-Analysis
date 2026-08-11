@@ -13,9 +13,9 @@ Designed and implemented a fully automated, end-to-end big data pipeline to proc
 ## 🎥 Live Demo
 
 ### 📹 Project Walkthrough Video
-[![Watch the Demo](assets/video-thumbnail.png)](https://drive.google.com/uc?export=download&id=19OaRaV3XS-agF6QOx8_tUQaPqznOgSNT)
+![Pipeline Demo](assets/Big_data.gif)
 
-> Replace `video-thumbnail.png` with a screenshot of your video (with a play button overlay) and `video.mp4` with your actual hosted demo file or YouTube link.
+👉 [Watch Full Video](https://drive.google.com/uc?export=download&id=YOUR_FILE_ID)
 
 ---
 
