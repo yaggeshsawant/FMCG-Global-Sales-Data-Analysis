@@ -13,7 +13,7 @@ Designed and implemented a fully automated, end-to-end big data pipeline to proc
 ## 🎥 Live Demo
 
 ### 📹 Project Walkthrough Video
-[![Watch the Demo](https://dummy-link.com/video-thumbnail.png)]([https://dummy-link.com/video.mp4](https://drive.google.com/file/d/19OaRaV3XS-agF6QOx8_tUQaPqznOgSNT/view?usp=drive_link))
+[![Watch the Demo](assets/Dashboard.png)]([https://dummy-link.com/video.mp4](https://drive.google.com/file/d/19OaRaV3XS-agF6QOx8_tUQaPqznOgSNT/view?usp=drive_link))
 
 > Replace `video-thumbnail.png` with a screenshot of your video (with a play button overlay) and `video.mp4` with your actual hosted demo file or YouTube link.
 
