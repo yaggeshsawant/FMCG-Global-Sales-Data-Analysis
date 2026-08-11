@@ -25,7 +25,7 @@ Designed and implemented a fully automated, end-to-end big data pipeline to proc
 ---
 
 ### 🌐 Tableau Public Link
-View Interactive Dashboard: [https://dummy-link.com/tableau-public]([https://dummy-link.com/tableau-public](https://public.tableau.com/views/Final_Fmcg_dashboard/FMCGDashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+View Interactive Dashboard: [https://dummy-link.com/tableau-public](https://public.tableau.com/views/Final_Fmcg_dashboard/FMCGDashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
