@@ -20,7 +20,7 @@ Designed and implemented a fully automated, end-to-end big data pipeline to proc
 ---
 
 ### 🖼️ Tableau Dashboard Preview
-![Tableau Dashboard](https://dummy-link.com/tableau-dashboard.png)
+![Tableau Dashboard](assets/Dashboard.png)
 
 ---
 
