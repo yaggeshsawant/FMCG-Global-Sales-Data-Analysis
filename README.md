@@ -15,7 +15,7 @@ Designed and implemented a fully automated, end-to-end big data pipeline to proc
 ### 📹 Project Walkthrough Video
 ![Pipeline Demo](assets/Big_data.gif)
 
-👉 [Watch Full Video]([https://drive.google.com/uc?export=download&id=YOUR_FILE_ID](https://lnkd.in/p/dsfJSvVF))
+👉 [Watch Full Video](https://lnkd.in/p/dsfJSvVF)
 
 ---
 
